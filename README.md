@@ -72,7 +72,7 @@ A playful and creative cryptocurrency landing page that combines the nostalgia o
 
 1. Clone the repository
 ```bash
-[git clone https://github.com/yourusername/bricks.git](https://github.com/A-Hazzard/Bricks.git)
+git clone https://github.com/A-Hazzard/Bricks.git
 ```
 
 2. Open `index.html` in your browser
@@ -80,7 +80,7 @@ A playful and creative cryptocurrency landing page that combines the nostalgia o
 
 ## 📸 Preview
 
-![Homepage](public/images/preview.png)
+![Homepage](preview.png)
 
 ## 🎮 Interactive Elements
 
