@@ -2,7 +2,7 @@
 
 A playful and creative cryptocurrency landing page that combines the nostalgia of LEGO with the excitement of memecoins. Features a vibrant coral-colored design with animated LEGO minifigures.
 
-![Bricks Logo](public/images/logo.png)
+![Bricks Logo](favicon.ico)
 
 ## 🎨 Design Features
 
